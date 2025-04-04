@@ -25,8 +25,8 @@ I'm open to collaboration on:
 
 ## 📫 Reach Out  
 Let’s connect and build something awesome together:
-- **Email:** [Insert your email here]  
-- **LinkedIn:** [Insert your LinkedIn here]  
+- **Email:** ndungujohnson01@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/johnson-njenga
 - Or just drop a message on GitHub!
 
 
